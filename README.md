@@ -1,6 +1,6 @@
 # oech_app
 
-A new Flutter project.
+Задание с РЧ 2024 года.
 
 ## Getting Started
 
